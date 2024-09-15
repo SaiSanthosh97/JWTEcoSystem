@@ -168,4 +168,4 @@ Contributions are welcome. Please adhere to the existing architectural patterns 
 
 ## License
 
-[Specify your license here]
+NA
